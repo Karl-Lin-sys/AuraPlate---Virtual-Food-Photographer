@@ -1,0 +1,6 @@
+{
+  "name": "AuraPlate - Virtual Food Photographer",
+  "description": "Generate Michelin-star food photography for restaurant menus in Rustic/Dark, Bright/Modern, or Social Media flat-lay aesthetics using Gemini Image models with 1K, 2K, and 4K export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
